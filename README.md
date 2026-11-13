@@ -1,3 +1,5 @@
+**Firmware debugging for hire → [ljn66666.github.io](https://ljn66666.github.io/)**
+
 ### Embedded firmware, mostly debugging
 
 I work on ESP32 / ESP32-S3 / STM32 at the driver level. Most of what I do is
